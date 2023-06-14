@@ -1,5 +1,8 @@
 # rgaSPP_cpp
 Hybrid ReactiveGRASP-ACO heuristic for the Set Packing Problem (SPP) in C++
+<p align="center">
+  <img src="RGA.png">
+</p>
 
 *Commande pour compiler*:
 
